@@ -12,10 +12,10 @@
 - 🌍 **Simples no limpu**: HTML, CSS, no JavaScript de’it — la iha framework!
 
 ## ▶️ Haree Iha Navegador (Live Demo)
-👉 [Klik ne'e](https://kitudoutel.github.io/Sai-Doben-ValentineDay/)
+👉 [Klik ne'e](https://doben-bonita.vercel.app/)
 
 ## 🛠️ Kopia Ba Ita-boot nia Komputador
 1. Kopia projeitu ne’e:
    ```bash
 
-   git clone https://github.com/KituDoutel/Sai-Doben-ValentineDay.git
+   git clone https://github.com/KituDoutel/Sai-Doben.git
